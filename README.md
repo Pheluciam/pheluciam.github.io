@@ -8,7 +8,7 @@ Professional portfolio of Phil McKechnie.
 * python_MySQL_dashboard - jpeg of dashboard above.
 * python_choose_your_cup_game - Python random if elif ball under cup game.
 * python_melb_data_clean - Python dataframe manipulation of .csv dataset using pandas library.
-* python_mexico_dashboard.docx - Screenshots of online interactive Python dashboard below.
+* python_mexico_dashboard.docx - Screenshots of online interactive Python dashboard below (select 'View raw' to download).
 * python_mexico_dashboard - Python interactive Plotly & Dash dashboard of Mexico City Air BnB data. Screenshots on .docx above.
 * Office Supplies Dashboard  - Tableau interactive dashboard available for viewing online only. Link below: -
   
