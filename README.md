@@ -14,6 +14,6 @@ Professional portfolio of Phil McKechnie.
   
       https://public.tableau.com/app/profile/phil.mckechnie/viz/OfficeSuppliesDashboard_16908776321470/Dashboard1?publish=yes
 
-* tableau_loindon_bike_share_dashboard - Tableau interactive dashboard available for viewing online only. Link below: -
+* tableau_london_bike_share_dashboard - Tableau interactive dashboard available for viewing online only. Link below: -
 
       https://public.tableau.com/app/profile/phil.mckechnie/viz/LondonBikeShare_16920053816290/Dashboard1?publish=yes
