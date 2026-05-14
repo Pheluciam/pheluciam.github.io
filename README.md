@@ -1,3 +1,10 @@
+> **Note (2026):** This site is a self-directed learning portfolio from 2023, kept here for context.
+> For my current data engineering work, see:
+> - [retail-demand-forecasting-project](https://github.com/Pheluciam/retail-demand-forecasting-project) — end-to-end pipeline: Azure SQL → Airflow → Snowflake → dbt → Power BI
+> - [cdc-nt-gtfs-project](https://github.com/Pheluciam/cdc-nt-gtfs-project) — GTFS data engineering: Python ingestion, dbt, Power BI
+
+---
+
 # pheluciam.github.io
 Professional portfolio of Phil McKechnie.
 
